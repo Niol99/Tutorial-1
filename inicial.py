@@ -1,5 +1,5 @@
 
-"hola mundo de python en VS code"
+"hola mundo de python en VScode"
 
 print("hola mundo!") 
 
