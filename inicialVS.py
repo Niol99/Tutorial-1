@@ -13,4 +13,3 @@ my_variable = "texto"
 
 print(my_variable) 
 
-f specs. 
